@@ -1,0 +1,40 @@
+html{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 8px 5px 13px;
+    padding: 15px;
+}
+
+h1{
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h2{
+    color: #5fc43d;
+}
+
+#color1{
+    color: #438a2b;
+}
+
+#color2, h3{
+    color: #c27244;
+}
+
+aside{
+    float: left;
+    margin-right: 50px;
+}
+
+section{
+    border: solid lightgray;
+    border-width: 2px;
+    padding: 10px;
+    margin-left: 200px;
+}
+

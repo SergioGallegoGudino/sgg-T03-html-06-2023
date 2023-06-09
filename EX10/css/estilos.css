@@ -1,0 +1,82 @@
+html{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgrey;
+}
+
+body{
+    background-color: white;
+    border-radius: 1%;
+    border-width: 8px 5px 13px;
+    padding: 15px;
+}
+
+h1{
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h2{
+    color: #5fc43d;
+}
+
+#color1{
+    color: #438a2b;
+}
+
+#color2, h3{
+    color: #c27244;
+}
+
+aside{
+    float: left;
+    margin-right: 50px;
+}
+
+section{
+    background: rgb(193,193,193);
+    background: linear-gradient(180deg, rgba(193,193,193,1) 0%, rgba(255,255,255,1) 22%, rgba(255,255,255,1) 48%, rgba(255,255,255,1) 76%, rgba(225,225,225,1) 100%);
+    border: solid lightgray;
+    border-width: 2px;
+    padding: 10px;
+    margin-left: 200px;
+}
+
+a{  
+    color: lightgrey;
+    text-decoration: none;
+}
+
+#actual a{
+    color: black;
+}
+
+li{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(185,227,102,1) 100%);
+    border: solid lightgray;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#actual, li:hover{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(227,142,102,1) 100%);
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+#enlaces{
+    text-align: center;
+    color: lightgrey;
+}
+
+#enlaces a{
+    text-decoration: underline;
+}
