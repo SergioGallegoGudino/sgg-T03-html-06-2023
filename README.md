@@ -30,13 +30,13 @@
 
 <a href="https://sergiogallegogudino.github.io/sgg-T03-html-06-2023/EX8/">Ejercicio 8</a>
 
-![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/5be171e1-923c-44d8-9720-c734e6bd6c52)
+![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/de66982e-1b19-4c9a-b191-3f49c0b41d11)
 
 <a href="https://sergiogallegogudino.github.io/sgg-T03-html-06-2023/EX9/">Ejercicio 9</a>
 
-![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/3943bee1-8b2a-469d-bbac-82b4a96cce15)
+![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/bc706b56-f3bd-4140-ad0e-13db3f81d236)
 
 <a href="https://sergiogallegogudino.github.io/sgg-T03-html-06-2023/EX10/">Ejercicio 10</a>
 
-![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/2c041daa-b612-47fe-8daa-4ec330d332ab)
+![image](https://github.com/SergioGallegoGudino/sgg-T03-html-06-2023/assets/118269684/47a21cc8-83ab-4ab5-92fb-b5b669b23465)
 
